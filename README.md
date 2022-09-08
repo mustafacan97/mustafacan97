@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything :)
 - 📫 How to reach me: aksoy.mustafacn@gmail.com
 
+![](https://img.shields.io/github/commit-activity/w/mustafacan97/react-project)
+![](https://img.shields.io/github/last-commit/mustafacan97/react-project)
 ![](https://img.shields.io/github/followers/mustafacan97?style=social)
