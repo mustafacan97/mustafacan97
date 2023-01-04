@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 💻 I am a full-stack developer
-- 🌱 I’m currently working on microservice architecture
+- 🌱 I’m currently working on Clean Architecture & DDD
 - 💬 Ask me about anything :)
 - 📫 How to reach me: aksoy.mustafacn@gmail.com
